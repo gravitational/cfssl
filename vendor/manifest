@@ -151,11 +151,9 @@
 			"path": "/spew"
 		},
 		{
-			"importpath": "github.com/google/certificate-transparency/go",
-			"repository": "https://github.com/google/certificate-transparency",
-			"revision": "6e5648d13b43cdde25cc8274b87675230ffefbd6",
-			"branch": "master",
-			"path": "/go"
+			"importpath": "github.com/google/certificate-transparency-go",
+			"repository": "https://github.com/google/certificate-transparency-go",
+			"revision": "e6acaeec0c261a8b706ed60ac91e56dc96526241",
 		},
 		{
 			"importpath": "github.com/jessevdk/go-flags",
